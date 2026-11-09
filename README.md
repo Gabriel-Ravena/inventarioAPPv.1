@@ -1,4 +1,4 @@
-# Almacén · Control de inventario
+# Almacén · Control de inventario v.1
 
 Aplicación web local para un único comercio. React + TypeScript + Tailwind CSS + Vite, API REST con FastAPI y SQLite mediante SQLAlchemy. Interfaz en español de Argentina e importes en ARS.
 
